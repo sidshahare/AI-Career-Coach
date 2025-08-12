@@ -6,7 +6,7 @@ Built with **Next.js**, **NeonDB**, **Prisma**, **Tailwind CSS**, **Shadcn UI**,
 
 ---
 
-## 🚀 Features
+## 🚀 Featuress
 
 - 🔍 **Career Path Analysis**  
   Get market-aligned recommendations for trending career paths and in-demand skills.
